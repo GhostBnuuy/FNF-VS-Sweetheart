@@ -11,3 +11,13 @@ And here it is at last, VS Sweetheart!
 - EASTER EGGS
 - Fully made in OMORI ARTSTYLE
 - (probably more stuff that i forgot)
+
+
+------------------ CREDITS ------------------
+
+ThatBnuuyAlex (ME) - Artist / Animator / Coder
+Miss Beepy - Musician
+Generic Idiot - Charter
+MonoWolf - Voice Actor
+
+---------------------------------------------
