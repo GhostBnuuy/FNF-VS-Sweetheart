@@ -12,12 +12,13 @@ And here it is at last, VS Sweetheart!
 - Fully made in OMORI ARTSTYLE
 - (probably more stuff that i forgot)
 
-
------------------- CREDITS ------------------
+# CREDITS
 
 ThatBnuuyAlex (ME) - Artist / Animator / Coder
+
 Miss Beepy - Musician
+
 Generic Idiot - Charter
+
 MonoWolf - Voice Actor
 
----------------------------------------------
