@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HeadSpaceGF.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Idle0000" x="0" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0001" x="0" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0002" x="0" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0003" x="0" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0004" x="347" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0005" x="347" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0006" x="347" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0007" x="347" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0008" x="694" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0009" x="694" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0010" x="694" y="0" width="347" height="484"/>
+	<SubTexture name="GF Idle0011" x="694" y="0" width="347" height="484"/>
+	<SubTexture name="GF Sad0000" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0001" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0002" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0003" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0004" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0005" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0006" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0007" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0008" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0009" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0010" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0011" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0012" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0013" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Sad0014" x="0" y="484" width="347" height="484"/>
+	<SubTexture name="GF Win0000" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0001" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0002" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0003" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0004" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0005" x="347" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0006" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0007" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0008" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0009" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0010" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0011" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0012" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0013" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0014" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0015" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0016" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0017" x="0" y="969" width="350" height="485"/>
+	<SubTexture name="GF Win0018" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0019" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0020" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0021" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0022" x="697" y="484" width="350" height="485"/>
+	<SubTexture name="GF Win0023" x="697" y="484" width="350" height="485"/>
+</TextureAtlas>

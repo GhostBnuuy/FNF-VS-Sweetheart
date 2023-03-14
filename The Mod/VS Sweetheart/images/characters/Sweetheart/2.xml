@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sweetheart Main.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sweetheart DOWN0000" x="0" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0001" x="0" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0002" x="562" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0003" x="562" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0004" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0005" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0006" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0007" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0008" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart DOWN0009" x="1124" y="0" width="562" height="806"/>
+	<SubTexture name="Sweetheart Idle0000" x="1686" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0001" x="1686" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0002" x="1686" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0003" x="1686" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0004" x="2319" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0005" x="2319" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0006" x="2319" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0007" x="2319" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0008" x="2952" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0009" x="2952" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0010" x="2952" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0011" x="2952" y="0" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0012" x="0" y="806" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0013" x="0" y="806" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0014" x="0" y="806" width="633" height="685"/>
+	<SubTexture name="Sweetheart Idle0015" x="0" y="806" width="633" height="685"/>
+	<SubTexture name="Sweetheart LEFT0000" x="633" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0001" x="633" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0002" x="1277" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0003" x="1277" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0004" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0005" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0006" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0007" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0008" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart LEFT0009" x="1921" y="806" width="644" height="657"/>
+	<SubTexture name="Sweetheart RIGHT0000" x="2565" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0001" x="2565" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0002" x="3268" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0003" x="3268" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0004" x="0" y="1491" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0005" x="0" y="1491" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0006" x="3268" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0007" x="3268" y="806" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0008" x="703" y="1491" width="703" height="670"/>
+	<SubTexture name="Sweetheart RIGHT0009" x="703" y="1491" width="703" height="670"/>
+	<SubTexture name="Sweetheart UP0000" x="1406" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0001" x="1406" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0002" x="2075" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0003" x="2075" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0004" x="2744" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0005" x="2744" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0006" x="2744" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0007" x="2744" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0008" x="2744" y="1491" width="669" height="683"/>
+	<SubTexture name="Sweetheart UP0009" x="2744" y="1491" width="669" height="683"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				97,
+				-27
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sweetheart LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-63
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sweetheart DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sweetheart UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-13
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sweetheart RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sweetheart Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dead",
+			"indices": [],
+			"name": "Flabbergasted"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sweetheart/3",
+	"position": [
+		-90,
+		-50
+	],
+	"healthicon": "sweetheart",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		77,
+		146
+	],
+	"camera_position": [
+		-200,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

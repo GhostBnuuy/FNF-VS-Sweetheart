@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShadowBump.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shadow Title Bump0000" x="0" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="597" frameHeight="918"/>
+	<SubTexture name="Shadow Title Bump0001" x="0" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="597" frameHeight="918"/>
+	<SubTexture name="Shadow Title Bump0002" x="0" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="597" frameHeight="918"/>
+	<SubTexture name="Shadow Title Bump0003" x="314" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="606" frameHeight="920"/>
+	<SubTexture name="Shadow Title Bump0004" x="314" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="606" frameHeight="920"/>
+	<SubTexture name="Shadow Title Bump0005" x="314" y="0" width="314" height="475" frameX="140" frameY="20" frameWidth="606" frameHeight="920"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"storyName": "World's End Valentine",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "lol",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"toodle-loo",
+			"sweetheart",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Sweetheart"
+}

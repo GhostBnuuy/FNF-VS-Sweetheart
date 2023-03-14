@@ -1,0 +1,176 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				4,
+				5,
+				6,
+				6,
+				6
+			],
+			"name": "First Death"
+		},
+		{
+			"offsets": [
+				-8,
+				-8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Death Loop"
+		},
+		{
+			"offsets": [
+				-11,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Retry"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "win",
+			"loop": true,
+			"name": "Win"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend/Neutral",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,7 @@
+{
+	"name": "VS Sweetheart",
+	"description": "World's End Valentine\n\nThis mod contains flashing light, you've been warned",
+	"restart":true,
+	"runGlobally": true,
+	"color": [255, 255, 255]
+}

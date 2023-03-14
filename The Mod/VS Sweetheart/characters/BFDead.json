@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "First Death"
+		},
+		{
+			"offsets": [
+				-7,
+				-8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Death Loop"
+		},
+		{
+			"offsets": [
+				-11,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend/Neutral",
+	"position": [
+		500,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-80,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				44641.0256410256,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sweetheart2"
+					]
+				]
+			],
+			[
+				152641.025641026,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sweetheart3"
+					]
+				]
+			],
+			[
+				152769.230769231,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

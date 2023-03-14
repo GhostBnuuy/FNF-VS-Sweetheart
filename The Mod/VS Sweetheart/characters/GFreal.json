@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				4
+			],
+			"anim": "Victory",
+			"fps": 24,
+			"name": "GF Win",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "GF Sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Girlfriend/HeadspaceGF",
+	"position": [
+		300,
+		160
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
